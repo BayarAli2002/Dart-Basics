@@ -1,2 +1,2 @@
 # Dart-Basics
-## this codes are the fundamental to Flutter Framework
+## these codes are the fundamental to Flutter Framework
