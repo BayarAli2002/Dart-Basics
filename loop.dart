@@ -32,7 +32,7 @@ it will print the following
   for (int i = 0; i < 10; i++) {
     print("10x$i=${10 * i}");
   }
-// for in it prints the index of the array elements
+// for (in) it prints the array elements
   var name = [1, true, "bayar", 5];
   for (var j in name) {
     print(j);
