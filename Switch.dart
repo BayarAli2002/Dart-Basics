@@ -1,5 +1,6 @@
 main() {
   var num = 20;
+
   switch (num) {
     case 100:
       print("Excellent");
