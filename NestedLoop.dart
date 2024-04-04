@@ -32,4 +32,15 @@ main() {
 
     n++;
   } while (n <= 10);
+
+  //infinitive loop
+
+  /*
+var i=1;
+while(i<=10)
+{
+print("Hi");
+
+}
+  */
 }
