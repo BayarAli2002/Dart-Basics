@@ -35,7 +35,7 @@ main() {
   //this will print "true" because it's a logical value
   // --->   >  <  >=  <= == !=  is int  is! int
   print(a > b);
-  print(a is! int);
+  print(a);
 // x=4 and y=5
   print(x > 4 && y > 5);
   print(x > 4 || y > 4);
