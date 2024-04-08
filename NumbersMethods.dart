@@ -1,6 +1,3 @@
-import 'dart:math';
-import 'dart:io';
-
 void main() {
   var x = -4;
   print(x.isEven);
