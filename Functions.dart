@@ -1,15 +1,14 @@
-import 'dart:ffi';
 import 'dart:math';
 import 'dart:io';
 
 //Function declaration
 //Function without return and passing parametr
-fun1() {
+void fun1() {
   print("Function called successfully");
 }
 
 //function with one passing parameter
-fun2(int x) {
+void fun2(int x) {
   print("x=$x");
 }
 
