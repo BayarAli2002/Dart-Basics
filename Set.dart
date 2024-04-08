@@ -1,7 +1,7 @@
 void main() {
   var x = {4, 5, 6, 7};
   Set y = {6, 7, 8, 9};
-  /*
+
   print(x);
   print(y);
   //convert set to list
@@ -29,7 +29,7 @@ void main() {
   x.forEach((var item) {
     print(item);
   });
-*/
+
 //comparative between two sets
   var temp = {1, 2, 3, 7, 9};
   print(x.intersection(y));
