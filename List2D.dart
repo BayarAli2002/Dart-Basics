@@ -32,6 +32,7 @@ void main() {
     print(x);
   }
 /*
+output:
 [1, 2, 3]
 [4, 5, 9]
 */
@@ -41,4 +42,10 @@ void main() {
   a.forEach((var x) {
     print(x);
   });
+
+/*
+output:
+[1, 2, 3]
+[4, 5, 9]
+*/
 }
