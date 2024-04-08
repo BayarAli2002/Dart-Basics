@@ -33,14 +33,10 @@ void main() {
   });
 
   /*
-shyar
-21
-rezgar
-23
-husssien
-26
-Mohammed
-21
+key:shyar value:21
+key:rezgar value:23
+key:husssien value:26
+key:Mohammed value:21
   */
   x.clear();
   print(x); // {}
