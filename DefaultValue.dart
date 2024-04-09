@@ -33,7 +33,8 @@ sum(x, z, {y, s, a}) {
 }
 
 //Type void becuase it doesn't return any value
-// here we don't define the type of age
+// here we don't define the type of age so it will print (null)
+// we arn't obliged to give value to age and vice versa
 void info(String firstname, String lastname,
     {age, int phone = 07800274177, int height = 5}) {
   print("firstname=$firstname");
